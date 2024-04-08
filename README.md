@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **ToDoList React Native APP**
 
-- 🌱 I’m currently learning **ReactNative and LUA**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://tonyfrogetdev.github.io/portfolio/](https://tonyfrogetdev.github.io/portfolio/)
 
