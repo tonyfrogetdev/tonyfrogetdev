@@ -6,7 +6,7 @@
 
 <p align="left"> <img align="right" alt="Coding" width="400" src="https://i.gifer.com/5eKX.gif">
 
-- 🔭 I’m currently working on **ToDoList React Native APP**
+- 🔭 I’m currently working on **Algorithm and OOP**
 
 - 🌱 I’m currently learning **TypeScript**
 
