@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Tony</h1>
-<h3 align="center">A passionate fullstack developer from France</h3>
+<h3 align="center">A passionate FullStack developer from France</h3>
 
 <p align="left"> <img align="right" alt="Coding" width="400" src="https://i.gifer.com/5eKX.gif">
 
@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://tonyfrogetdev.github.io/portfolio/](https://tonyfrogetdev.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [[https://tonyfroget.vercel.app/])
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **tonyfrogetdev@gmail.com**
 
