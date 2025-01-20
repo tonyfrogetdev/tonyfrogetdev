@@ -6,15 +6,15 @@
 
 <p align="left"> <img align="right" alt="Coding" width="400" src="https://i.gifer.com/5eKX.gif">
 
-- 🔭 I’m currently working on **Algorithm and OOP**
+- 🔭 I’m currently working on **NextJs / TailwindCss**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Figma**
 
 - 👨‍💻 All of my projects are available at [[https://tonyfroget.vercel.app/])
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **tonyfrogetdev@gmail.com**
+- 📫 How to reach me **codebytsilavo@gmail.com**
 
 - ⚡ Fun fact **I'm also fitness trainer**
 
